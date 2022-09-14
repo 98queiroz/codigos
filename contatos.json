@@ -1,0 +1,77 @@
+[
+    {
+        "nome": "matheus queiroz sales",
+        "email": "mat.queirozsales@gmail.com",
+        "telefone": "(92) 9 9266-2600"
+    },
+    {
+        "nome": "maria clara santos do nascimento",
+        "email": "maria.clara-nascimento@gmail.com",
+        "telefone": "(82) 9 7768-2789"
+    },
+    {
+        "nome": "maria silva gomes",
+        "email": "maria@gomes.com.br",
+        "telefone": "(92) 9 9233-3344"
+    },
+    {
+        "nome": "maria antonieta da silva moraes",
+        "email": "maria_antonieta@seuemail.com",
+        "telefone": "(93) 9 9266-4455"
+    },
+    {
+        "nome": "maria raimunda da silva nobre",
+        "email": "maria_raimundanobre@seuemail.com",
+        "telefone": "(11) 9 0987-2343"
+    },
+    {
+        "nome": "roberta miranda da silva",
+        "email": "roberta_miranda@gmail.com",
+        "telefone": "(33) 9 2345-1234"
+    },
+    {
+        "nome": "fernando boi sofredor",
+        "email": "fernando_boi@gmail.com",
+        "telefone": "(92) 9 9266-2233"
+    },
+    {
+        "nome": "thalia rodrigues araujo",
+        "email": "thalia.rodrigues@gmail.com",
+        "telefone": "(92) 9 8827-7618"
+    },
+    {
+        "nome": "maria aparecida da silva sales",
+        "email": "maria_aparecida@gmail.com",
+        "telefone": "(92) 9 2222-2222"
+    },
+    {
+        "nome": "maria cleia silva nascimento",
+        "email": "maria_cleiadonascimento@gmail.com",
+        "telefone": "(92) 9 9999-9999"
+    },
+    {
+        "nome": "marcos da silva sales",
+        "telefone": "(92) 9 9234-3234",
+        "email": "marcos@sales.com"
+    },
+    {
+        "nome": "elaine da silva sales",
+        "email": "elaine@gmail.com",
+        "telefone": "(92) 9 1234-1234"
+    },
+    {
+        "nome": "ana maria braga",
+        "email": "namria@gmail.com",
+        "telefone": "(12) 9 1234-1234"
+    },
+    {
+        "nome": "barbara nanana",
+        "email": "barbara@gmail.com",
+        "telefone": "(12) 9 1324-1234"
+    },
+    {
+        "nome": "roberta santos dos santos",
+        "email": "roberta@gmail.com",
+        "telefone": "(21) 9 1234-1234"
+    }
+]
